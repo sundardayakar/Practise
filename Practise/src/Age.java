@@ -9,6 +9,7 @@ public class Age {
         if (givenAge < 0) {
             System.out.println("invalid input");
             System.exit(0);
+            
         }
         if (givenAge < 1) {
             System.out.println("newly born");
